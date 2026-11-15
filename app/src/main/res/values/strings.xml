@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Chính Trị 300</string>
+    <string name="header_title">Trắc Nghiệm Chính Trị 2026</string>
+    <string name="header_author">Tác giả: Nguyễn Thanh Tài</string>
+    <string name="tab_parts">Từng Phần</string>
+    <string name="tab_study">Học 300</string>
+    <string name="tab_saved">Ghi Nhớ</string>
+    <string name="tab_redo">Làm Lại</string>
+    <string name="tab_exam">Thi Thử</string>
+    <string name="auto_saved_progress">TIẾN ĐỘ ĐÃ LƯU TỰ ĐỘNG</string>
+    <string name="reset_progress">Xóa làm lại từ đầu</string>
+    <string name="study_all_300">Học toàn bộ 300 câu →</string>
+    <string name="modules_section_title">Ôn luyện theo 5 Chuyên đề</string>
+    <string name="packs_section_title">Ôn theo 10 Gói (30 câu/gói)</string>
+    <string name="author_footer">Ứng dụng Ôn thi Nhận thức Chính trị 2026 • Biên soạn &amp; Phát triển: Nguyễn Thanh Tài</string>
+    <string name="search_placeholder">Tìm nhanh số câu hoặc nội dung...</string>
+    <string name="prev_question">← Câu trước</string>
+    <string name="next_question">Câu tiếp theo →</string>
+    <string name="save_bookmark">Lưu ghi nhớ</string>
+    <string name="saved_bookmark">Đã ghi nhớ</string>
+    <string name="redo_this_question">Làm lại câu này</string>
+    <string name="saved_header_title">Sổ Tay Ghi Nhớ Từ Khóa</string>
+    <string name="saved_header_sub">Ôn nhanh các câu bạn đã lưu ghi nhớ hoặc xem toàn bộ từ khóa 300 câu.</string>
+    <string name="redo_header_title">Làm Lại Các Câu Chưa Đúng</string>
+    <string name="redo_header_sub">Mọi câu bạn chọn sai đều tự động gom về đây để bạn làm lại cho thuộc.</string>
+    <string name="clear_redo_btn">Xóa hết</string>
+    <string name="redo_empty_title">Không có câu nào tồn đọng cần làm lại!</string>
+    <string name="redo_empty_sub">Khi bạn chọn sai ở mục Học 300 Câu hoặc Thi Thử, câu hỏi đó sẽ tự động xuất hiện tại đây.</string>
+    <string name="exam_setup_title">Thi Thử Ngẫu Nhiên</string>
+    <string name="exam_setup_sub">Rút ngẫu nhiên câu hỏi và tự động đảo vị trí đáp án A, B, C, D.</string>
+    <string name="start_exam_btn">Bắt Đầu Làm Bài Thi</string>
+    <string name="submit_exam_btn">Nộp bài</string>
+    <string name="quit_exam_btn">Thoát</string>
+    <string name="theme_toggle_desc">Đổi giao diện Sáng / Tối</string>
+</resources>

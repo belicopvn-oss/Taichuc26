@@ -1,0 +1,6 @@
+{
+  "name": "Chính Trị 300",
+  "description": "Ứng dụng ôn thi 300 câu trắc nghiệm nhận thức chính trị 2026 - Tác giả: Nguyễn Thanh Tài",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
